@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    int greenBottles = 10;
+    cout << "There were " << greenBottles << " green bottles" << endl;
     return 0;
 }
